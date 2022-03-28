@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "BLACKSER_SESSION": {
-            "description": "Type here yours Rudhra Session.",
+            "description": "Type here yours black ser Session.",
             "required": true
         },
         "SUDO": {

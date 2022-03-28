@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/SPlRlT-YT">spirit-ser</a> to make
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/BLACK-SER-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SPlRlTFF/BLACK-SER-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/BLACK-SER)
      </div>

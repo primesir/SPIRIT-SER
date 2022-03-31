@@ -1,4 +1,4 @@
-//modified @ SPlRlT-YT
+//modified @ SPlRlT-SER
 	
 
 const Rudh = require('../events');

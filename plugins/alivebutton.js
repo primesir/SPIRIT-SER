@@ -1,4 +1,4 @@
-/* Rudhra PrinceRudh
+/* spirit ser SPlRlTYT
 */
 
 const princerudh = require('../events');
@@ -25,7 +25,7 @@ princerudh.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true},
       
       const buttonMessage = {
           contentText: '```'+Config.BOTV2+'\n\n```'+Config.ALIVEMSG+'\n',
-          footerText: '₢ʙʟᴀᴄᴋ sᴇʀ',
+          footerText: '₢Sᴘɪʀɪᴛ sᴇʀ',
           buttons: buttons,
           headerType: 1
       }

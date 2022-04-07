@@ -1,14 +1,14 @@
 {
-  "name": "Rudhra",
+  "name": "spirit ser",
   "version": "7.3.6",
-  "description": "Rudhra is the Modified Version of WhatsAsena, Made By @prince-rudh with Baileys.",
-  "main": "./Rudhra/bot.js",
+  "description": "spirit ser is the Modified Version of WhatsAsena, Made By @prince-rudh with Baileys.",
+  "main": "./SPIRIT/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prince-rudh/Rudhra.git"
+    "url": "git+https://github.com/SPlRlT-YT/SPIRIT-SER.git"
   },
   "keywords": [
     "whatsapp",
@@ -18,12 +18,12 @@
     "WhatsAsena"
   ],
   "author": "prince-rudh",
-  "developer": "@TOXIC-DEVIL / @prince-rudh",
+  "developer": "@TOXIC-DEVIL / @SPlRlT-YT",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/prince-rudh/Rudhra/issues"
+    "url": "https://github.com/SPlRlT-YT/SPIRIT-SER/issues"
   },
-  "homepage": "https://github.com/prince-rudh/Rudhra#readme",
+  "homepage": "https://github.com/SPlRlT-YT/SPIRIT-SER#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",

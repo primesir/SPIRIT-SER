@@ -7,14 +7,14 @@ WhatsAsena - Yusuf Usta
 const fs = require("fs");
 const path = require("path");
 const events = require("./events");
-const princerudh = require("./princerudh");
-const rudhra = require('./rudhra');
+const SPlRlTYT = require("./SPlRlTYT");
+const spirit-ser = require('./spirit-ser');
 const { FakeDB, takeMessage } = require("./plugins/sql/fake");
 const chalk = require('chalk');
 const config = require('./config');
 const simpleGit = require('simple-git');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./BLACK/');
+const {Message, StringSession, Image, Video} = require('./SPIRIT/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const git = simpleGit();
@@ -140,7 +140,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅️BLACK SER working ' + config.WORKTYPE + ' 𝚗𝚘𝚠 '));
+            chalk.green.bold('✅️SPIRIT SER working ' + config.WORKTYPE + ' 𝚗𝚘𝚠 '));
           // thanks to afnanplk
 	    if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
@@ -339,7 +339,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         } catch (error) {
                             if (config.NOLOG == 'off') {
                                 
-                                await conn.sendMessage(conn.user.jid, '*~_________~ ༄BLACK SER࿐ ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ ༄SPIRIT SER࿐ ~______~*' +
                                     '\n\n*😵 ' + error + '*\n\n```Report errors\njoin ⚠️Warning bot not allowed in the group\nchat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP``` ' 
                                     , MessageType.text);
                             }

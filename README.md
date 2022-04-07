@@ -1,6 +1,6 @@
 <div align="center">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝗕𝗟𝗔𝗖𝗞+𝗦𝗘𝗥+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝗦𝗣𝗜𝗥𝗜𝗧+𝗦𝗘𝗥;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝗦𝗣𝗜𝗥𝗜𝗧+𝗦𝗘𝗥+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝗦𝗣𝗜𝗥𝗜𝗧+𝗦𝗘𝗥;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -9,10 +9,10 @@
 
 
 <p align="center">
-<a href="#"><img title="BLACK-SER" src="https://img.shields.io/badge/BLACK-SER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SPIRIT-SER" src="https://img.shields.io/badge/SPIRIT-SER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/SPlRlT-YT"><img title="Author" src="https://img.shields.io/badge/Author-spirit-ser/BLACK?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/SPlRlT-YT"><img title="Author" src="https://img.shields.io/badge/Author-spirit-ser/SPIRIT?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -28,9 +28,9 @@ Project created by <a href="https://github.com/SPlRlT-YT">spirit-ser</a> to make
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SPlRlTFF/BLACK-SER-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SPlRlTFF/SPIRIT-SER-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/BLACK-SER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/SPIRIT-SER)
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -41,15 +41,15 @@ bash <(curl -L https://t.ly/tHxh)
   
 1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
 
-2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@SPlRlTFF/BLACK-SER-QR)
+2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@SPlRlTFF/SPIRIT-SER-QR)
  
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/SPlRlT-YT/BLACK-SER/fork)
+ Click [FORK](https://github.com/SPlRlT-YT/SPIRIT-SER/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/BLACK-SER copy this url and change SPlRlT-YT with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/SPIRIT-SER copy this url and change SPlRlT-YT with your github username and click go<br>
 
 ----
 
@@ -63,13 +63,13 @@ bash <(curl -L https://t.ly/tHxh)
 </p>
 
   <p align="center">
-  <a href="httsp://github.com/SPlRlT-YT/BLACK-SER">
-    <img src="https://img.shields.io/github/repo-size/SPlRlT-YT/BLACK-SER?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/SPlRlT-YT/SPIRIT-SER">
+    <img src="https://img.shields.io/github/repo-size/SPlRlT-YT/SPIRIT-SER?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/SPlRlT-YT/followers"><img title="Followers" src="https://img.shields.io/github/followers/PrinceRudh?color=blue&style=flat-square"></a>
-<a href="https://github.com/SPlRlT-YT/BLACK-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SPlRlT-YT/BLACK-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/SPlRlT-YT/BLACK-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SPlRlT-YT/BLACK-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/SPlRlT-YT/BLACK-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SPlRlT-YT/BLACK-SER?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/SPlRlT-YT/SPIRIT-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SPlRlT-YT/SPIRIT-SER?color=blue&style=flat-square"></a>
+<a href="https://github.com/SPlRlT-YT/SPIRIT-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SPlRlT-YT/SPIRIT-SER?color=blue&style=flat-square"></a>
+<a href="https://github.com/SPlRlT-YT/SPIRIT-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SPlRlT-YT/SPIRIT-SER?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -88,8 +88,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/SPlRlT-YT/BLACK-SER
-$ cd BLACK-SER
+$ git clone https://github.com/SPlRlT-YT/SPIRIT-SER
+$ cd SPIRIT-SER
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -98,8 +98,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/SPlRlT-YT/BLACK-SER
-$ cd BLACK-SER
+$ git clone https://github.com/SPlRlT-YT/SPIRIT-SER
+$ cd SPIRIT-SER
 $ chmod +x *
 $ npm i
 $ node qr.js

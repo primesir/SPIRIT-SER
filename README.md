@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/SPlRlT-YT">spirit-ser</a> to make
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SPlRlTFF/SPIRIT-SER-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@BotYt1/SPIRIT-SER-BOT-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/SPIRIT-SER)
      </div>
@@ -41,7 +41,7 @@ bash <(curl -L https://t.ly/tHxh)
   
 1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
 
-2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@SPlRlTFF/SPIRIT-SER-QR)
+2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@BotYt1/SPIRIT-SER-BOT-QR)
  
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
